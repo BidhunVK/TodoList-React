@@ -86,3 +86,7 @@ h2 {
   color: grey;
 }
 
+.todo.completed p {
+  text-decoration: line-through;
+}
+
